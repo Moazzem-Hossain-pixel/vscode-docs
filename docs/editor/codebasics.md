@@ -1,4 +1,4 @@
----
+help---
 Order: 2
 Area: editor
 TOCTitle: Basic Editing
